@@ -58,7 +58,7 @@ Pipeline:
 
 ## 📊 Dataset
 
-- Dataset: **EarthVQA (Segmentation Subset)**
+- Dataset: **[EarthVQA (Segmentation Subset)](https://www.kaggle.com/datasets/jawadulkarim117/loveda)**
 - Classes:
   - Background  
   - Building  
